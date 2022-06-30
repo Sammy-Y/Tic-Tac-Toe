@@ -1,0 +1,15 @@
+.board {
+  background-color: skyblue;
+  margin: 20px;
+  padding: 20px;
+}
+
+.boardRow {
+  display: flex;
+  /* flex-flow: row nowrap; */
+}
+
+.status {
+  margin: 20px;
+  font-size: 30px;
+}

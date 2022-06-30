@@ -1,0 +1,8 @@
+{
+  "html.format.endWithNewline": false,
+  "html.format.enable": true,
+  "html.format.indentInnerHtml": false,
+  "editor.formatOnSave": true,
+  "html.format.maxPreserveNewLines": null,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
